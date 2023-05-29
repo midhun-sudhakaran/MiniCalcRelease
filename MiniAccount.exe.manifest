@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Account.Data.dll" size="11264">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Account.Data.dll" size="10752">
       <assemblyIdentity name="Account.Data" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dFkcTxkM6o0DnFr7uY64VpKATdm6esvx2tiJfTM2TKA=</dsig:DigestValue>
+        <dsig:DigestValue>QN3SUtuOW0cWN4ufPczfVcudXm87E+uR4I/x7h06oMg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MiniAccount.exe" size="499168">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MiniAccount.exe" size="498688">
       <assemblyIdentity name="MiniAccount" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0n+XK8AUZpBsscHzVTCDuFiRoFN63r51wqdBYWHpPuI=</dsig:DigestValue>
+        <dsig:DigestValue>2PJaz91qCwV4NqhDtcr09w0LRfQS6BbOEOKHLsYmwRg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
